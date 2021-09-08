@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Posto10
 - 👀 I’m interested in Android app developement
-- 🌱 I’m currently learning working on some interesting projects
+- 🌱 I’m currently learning and at the same time working on some interesting projects
 - 💞️ I’m looking to collaborate on any project with dependencies on Goole map API 
 - 📫 My contacts: email- postonewsonline@gmail.com , Phone: +2349131391267
 
